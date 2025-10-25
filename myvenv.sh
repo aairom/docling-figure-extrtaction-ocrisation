@@ -6,3 +6,7 @@ pip install --upgrade pip
 pip install docling
 pip install opencv-python
 pip install ollama
+
+pip install streamlit
+pip install requests
+pip install pillow
