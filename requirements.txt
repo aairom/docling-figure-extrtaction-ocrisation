@@ -1,3 +1,7 @@
 docling
 opencv-python
 ollama
+
+streamlit
+requests
+pillow
