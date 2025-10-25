@@ -45,6 +45,7 @@ The second stage of the pipeline (`ollama_ocr_processor.py`) requires the [Ollam
    ```
    ollama pull granite3.2-vision
    ollama pull llama3.2-vision
+   ollama run qwen3-vl:235b-cloud
    ```
 
 ## 📂 Project Structure
