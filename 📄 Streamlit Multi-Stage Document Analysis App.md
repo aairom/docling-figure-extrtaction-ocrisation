@@ -16,7 +16,7 @@ Ensure you have the following files in the root directory:
 
 ```
 .
-├── app.py              # The Streamlit application logic (GUI)
+├── Document-VLM-Processing.py              # The Streamlit application logic (GUI)
 ├── Dockerfile          # Defines the environment for the Streamlit app
 ├── docker-compose.yaml # Orchestrates the Ollama and Streamlit services
 └── requirements.txt    # Python dependencies (at least streamlit and requests)
